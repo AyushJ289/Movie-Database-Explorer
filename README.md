@@ -29,13 +29,3 @@ cd angular-movie-app
 npm install
 ng serve and go to http://localhost:4200/
 ```
-
-<p align="center">
-    <a href="https://flixmovies-82298.firebaseapp.com">
-        <img src="https://github.com/abidakram01/FlixMovies/blob/master/moviesScreen.png" alt="FlixMovies" />
-    </a>
-</p>
-
-## Become a contributor ?
-
-Find a bug, contribute some code or suggest ideas ? don't hesitate ! Create a pull request or an issue.
