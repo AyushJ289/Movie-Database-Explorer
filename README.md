@@ -13,7 +13,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 ## Installation
 
 ```bash
-git clone https://github.com/abidakram01/angular-movie-app.git
+git clone https://github.com/AyushJ289/Movie-Database-Explorer.git
 cd angular-movie-app
 npm install
 ng serve and go to http://localhost:4200/
